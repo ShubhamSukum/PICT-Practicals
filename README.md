@@ -8,6 +8,6 @@ WADL => https://github.com/sumitkawale
 
 Angular & DSBDA (web scraping) => https://github.com/ShubhamPitale 
 
-DSBDA => https://github.com/atharvaagrawal 
+DSBDA => https://github.com/Harshvardhan-Nishikant-Patil/DSBDA-PS 
 
 DSBDA (alternative codes) => https://github.com/atharvaagrawal/SPPU-DSBDA-Practical 
